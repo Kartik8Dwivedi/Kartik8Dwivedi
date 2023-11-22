@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kartik+Dwivedi!;+A+Full+Stack+Developer;" />
 </h1>
 
-<h3 align="center">A Full Stack JavaScript developer 🇮🇳</h3>
+<h3 align="center">A Full Stack developer 🇮🇳</h3>
 
 <br/>
 
@@ -41,8 +41,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,express,mongodb,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,mui,mysql,html,css,vscode,figma,git,vercel,netlify,vite,tailwind,redux,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,express,mongodb,java,spring,hibernate,aws,babel,docker,kubernetes&theme=light" /><br>
+    <img src="https://skillicons.dev/icons?i=react,mui,mysql,html,css,vscode,figma,git,vercel,netlify,vite,tailwind,redux,github,electron&theme=light" />
+    <img src="https://skillicons.dev/icons?i=graphql,jest,maven,nginx,prisma,rabbitmq,redis&theme=light" />
 </div>
 
 <br/>
