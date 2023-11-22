@@ -10,15 +10,17 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Airline Management System**
+ 🔭 I’m currently working on **Backend Technologies and System Design**
  
  🌱 I’m currently learning **NextJS**
+
+ Most of my projects are under **Private Repositories**
 
  💬 Ask me about **Node.js, React, MySQL, MongoDB and JavaScript**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
- Resume: https://shorturl.at/aHLMV
+ Resume: [https://shorturl.at/aHLMV](https://shorturl.at/oCMQ1)
  
  </div>
  
