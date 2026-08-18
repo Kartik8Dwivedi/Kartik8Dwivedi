@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 💼 Software Engineer Intern at **[Hypergro.ai](https://www.hypergro.ai/)** — building an AI video generation platform
+ 💼 Software Engineer at **[Hypergro.ai](https://www.hypergro.ai/)** — building an AI video generation platform
 
  🔭 I work on **fault-tolerant async job queues, event-driven systems and System Design**
 
