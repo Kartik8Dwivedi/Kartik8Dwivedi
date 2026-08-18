@@ -1,0 +1,35 @@
+# Generates the profile stat cards locally via GitHub Actions and commits them
+# to this repo (profile-summary-card-output/), so the README never depends on a
+# rate-limited public API at render time.
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    # once a day at 00:30 UTC
+    - cron: "30 0 * * *"
+
+  # Allows manually running the action from the Actions tab.
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # The built-in token is enough for public stats; the permissions
+          # block above grants it push access for the generated files.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          # IST (UTC+5:30), used by the productive-time card
+          UTC_OFFSET: 5.5
+          EXCLUDE: ""
+          AUTO_PUSH: true
