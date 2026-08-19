@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Kartik+Dwivedi!;+A+Software+Engineer;" alt="Hi, I'm Kartik Dwivedi, a Software Engineer" />
 </h1>
 
-<h3 align="center">Software Engineer · Backend & Distributed Systems 🇮🇳</h3>
+<h3 align="center">Forward Deployed Software Engineer · AI · Backend · Distributed Systems 🇮🇳</h3>
 
 <br/>
 
